@@ -1,0 +1,15 @@
+{
+  "name": "tunity_rest_server",
+  "version": "1.0.0",
+  "description": "Tunity Home Exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Leon Smirnov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
